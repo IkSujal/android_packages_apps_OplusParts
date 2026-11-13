@@ -11,7 +11,7 @@ import android.util.Log;
 
 import androidx.preference.PreferenceManager;
 
-import com.android.internal.lineage.health.HealthInterface;
+import lineageos.health.HealthInterface;
 
 import org.lineageos.settings.utils.FileUtils;
 
